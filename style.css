@@ -1,0 +1,31 @@
+.intro {
+    text-align: center;
+    height: 600px;
+    justify-content: center;
+    color: orangered;
+    width: 100%;
+    margin: auto;
+    padding: 0%;
+    display: ruby-base;
+
+}
+
+.image1 {
+    background-image: url(donation5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position:
+}
+
+
+
+.button {
+    background-color: orangered;
+    color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 0%;
+    border: 1px;
+    border-radius: 5px;
+
+}
